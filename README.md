@@ -22,6 +22,11 @@ Respaldo de las ayudantías realizadas durante 2025
 
 ---
 
+### 🧠 Aprendizaje Continuo
+* **[TIL (Today I Learned)](https://github.com/jolivaparra/til):** Un registro de conceptos, trucos técnicos y curiosidades que voy descubriendo día a día sobre Python, LaTeX, etc.
+
+---
+
 ### 🛠️ Proyectos y Herramientas
 * **[LaTeX Report Template](https://github.com/jolivaparra/latex-report-template):** Plantilla estándar para informes técnicos del DIE en ingeniería.
 
